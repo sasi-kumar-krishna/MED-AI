@@ -18,7 +18,7 @@ class PrescriptionAIApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Prescription AI',
+      title: 'Sasi Prescription AI',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         primarySwatch: Colors.teal,
